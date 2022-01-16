@@ -2,14 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=HAHA&fontSize=120)
 ![oo](https://user-images.githubusercontent.com/72681910/149652291-a05f040c-e84f-4cc4-bc76-a0a8598da436.gif)
+
 <!--  
-세 번째로는 기술 태그 부분입니다!
-기술 태그에 올라갈 로고는 https://simpleicons.org/
-요 링크에 가셔서 자신이 쓸 수 있는 기술들을 찾아 사용하시면 됩니다!
-
-[![태그의 이름](https://img.shields.io/badge/ 태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 나의 링크)
-
-이게 기본 베이스 코드이고 여기서 한글이 된 부분만 바꿔서 사용하시면 됩니다!-->
+https://velog.io/@jinyiji/Git-Hub-%EA%BE%B8%EB%AF%B8%EB%8A%94-%EB%B2%95!-->
 <!--
 **Elj33/Elj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
