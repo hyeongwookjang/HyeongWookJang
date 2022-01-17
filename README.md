@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=HAHA&fontSize=90)
 ![oo](https://user-images.githubusercontent.com/72681910/149652291-a05f040c-e84f-4cc4-bc76-a0a8598da436.gif)
-![2014mama-mama-moment](https://user-images.githubusercontent.com/72681910/149791347-0a685c97-a6a8-4968-b8fb-de1563e33d62.gif)
+<!-- ![2014mama-mama-moment](https://user-images.githubusercontent.com/72681910/149791347-0a685c97-a6a8-4968-b8fb-de1563e33d62.gif) -->
 
 하하ㅏ하핳
 하하하하
