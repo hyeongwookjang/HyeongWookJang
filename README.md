@@ -4,7 +4,7 @@
 
 하하ㅏ하핳 ㅎ햐ㅏ하하하하하ㅏdsadsadsa
 <!--https://velog.io/@jinyiji/Git-Hub-%EA%BE%B8%EB%AF%B8%EB%8A%94-%EB%B2%95!-->
-**Elj33/Elj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Elj33/Elj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
