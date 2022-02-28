@@ -1,19 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=HAHA&fontSize=90)
-![oo](https://user-images.githubusercontent.com/72681910/149652291-a05f040c-e84f-4cc4-bc76-a0a8598da436.gif)
-<!-- ![2014mama-mama-moment](https://user-images.githubusercontent.com/72681910/149791347-0a685c97-a6a8-4968-b8fb-de1563e33d62.gif) -->
+# Donghyeob Kang
+_Junior Web Developer_
 
-하하ㅏ하핳 ㅎ햐ㅏ하하하
-<!--https://velog.io/@jinyiji/Git-Hub-%EA%BE%B8%EB%AF%B8%EB%8A%94-%EB%B2%95!-->
-<!-- **Elj33/Elj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙ ***Stack***
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" /> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white" />   
+<img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white" /> <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...dsadas
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Donghyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donghyeob&show_icons=true&theme=dracula)
+
+
+### 💻 ***Blog***
+
+<a href="https://donghyeob-devlog.tistory.com/"><img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?label=Blog&labelColor=09B3AF&style=for-the-badge&logo=Bloglovin" /></a>
+
+
+## Career
+* 미래해양정보기술 (2021.12 ~ )
+  * Back-end Engineer
+  * Spring Boot, MariaDB, Mybatis
+
+* millionware (2020.09 ~ 2021.02)
+  * Front-end, Back-end, Infra Engineer
+  * Spring 3.x, JSP, Jquery, easyUI, Jenkins
+
+* 수상에스티 (2018.01 ~ 2020.04)(Intern)
+  * Front-end, Back-end
+  * HTML, CSS, JS, Node.js
+
+## Contacts
+✉ ***donghyeob.k@gmail.com***
