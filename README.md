@@ -19,7 +19,7 @@ _Junior Web Developer_
   * Back-end Engineer
   * Spring Boot, MariaDB, Mybatis
   
-  군대
+* 군대
 
 * 타이드인스티튜트 (201.01 ~ 2020.04)(Intern)
   * Front-end, Back-end
