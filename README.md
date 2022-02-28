@@ -18,14 +18,12 @@ _Junior Web Developer_
 * 미래해양정보기술 (2021.12 ~ )
   * Back-end Engineer
   * Spring Boot, MariaDB, Mybatis
-
-* millionware (2020.09 ~ 2021.02)
-  * Front-end, Back-end, Infra Engineer
-  * Spring 3.x, JSP, Jquery, easyUI, Jenkins
+  
+  군대
 
 * 타이드인스티튜트 (201.01 ~ 2020.04)(Intern)
   * Front-end, Back-end
   * HTML, CSS, JS, Node.js
 
 ## Contacts
-✉ ***donghyeob.k@gmail.com***
+✉ ***janghw33@gmail.com***
