@@ -14,16 +14,5 @@ dsds
 <!-- <a href="https://donghyeob-devlog.tistory.com/"><img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?label=Blog&labelColor=09B3AF&style=for-the-badge&logo=Bloglovin" /></a> -->
 
 
-## Career
-* 미래해양정보기술 (2021.12 ~ )
-  * Back-end Engineer
-  * Spring Boot, MariaDB, Mybatis
-  
-* 군대
-
-* 타이드인스티튜트 (201.01 ~ 2020.04)(Intern)
-  * Front-end, Back-end
-  * HTML, CSS, JS, Node.js
-
 ## Contacts
 ✉ ***janghw33@gmail.com***
