@@ -11,7 +11,8 @@
 ## Blog
 <!-- ### 💻 ***Blog*** -->
 <!-- ***hyeongwookjang.github.io*** -->
-<a href="https://hyeongwookjang.github.io/"><img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?label=Blog&labelColor=09B3AF&style=for-the-badge&logo=Bloglovin" /></a>
+<a href="https://hyeongwookjang.github.io/"></a>
+<!-- <img src="https://img.shields.io/badge/-Donoghyeob's%20Blog-orange?label=Blog&labelColor=09B3AF&style=for-the-badge&logo=Bloglovin" /> -->
 
 ## Contacts
 ✉ ***janghw33@gmail.com***
