@@ -11,7 +11,7 @@
 ## Blog
 <!-- ### 💻 ***Blog*** -->
 <!-- ***hyeongwookjang.github.io*** -->
-<a href="https://hyeongwookjang.github.io/"><img src="https://img.shields.io/badge/-HyeongWook's%20Blog-orange?label=Blog" /></a>
+<a href="https://hyeongwookjang.github.io/"><img src="https://img.shields.io/badge/-HyeongWook's%20Blog-pink?label=Blog" /></a>
 
 
 ## Contacts
