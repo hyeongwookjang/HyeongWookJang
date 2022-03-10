@@ -1,5 +1,5 @@
 # HyeongWook Jang
-_Junior Web Developer_
+<!-- _Junior Web Developer_ -->
 
 <!-- ### ⚙ ***Stack*** -->
 
